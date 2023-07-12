@@ -10,9 +10,13 @@ Command line functions to format python code using OpenAI. Tries to optimize for
 OPEN_API_KEY=YOURKEYHERE
 ```
 
-2. python main.py PATH_TO_FILE_YOU_WANT_CONVERTED --typehint
+2. `python main.py PATH_TO_FILE_YOU_WANT_CONVERTED --typehint`
 
 
 3. Wait
 
 4. Output will appear on stdout
+
+
+## TODO:
+
