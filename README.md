@@ -12,7 +12,6 @@ OPEN_API_KEY=YOURKEYHERE
 
 2. `python main.py PATH_TO_FILE_YOU_WANT_CONVERTED --typehint`
 
-
 3. Wait
 
 4. Output will appear on stdout
@@ -20,3 +19,6 @@ OPEN_API_KEY=YOURKEYHERE
 
 ## TODO:
 
+* Replace file contents (check if .git)
+* Directory wide
+* Price warning

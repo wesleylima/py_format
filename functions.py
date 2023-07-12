@@ -87,4 +87,3 @@ def get_best_model(code: str, prompt_function: Callable):
         else model_token_size[best_model_name]
     )
     return (best_model_name, total_tokens)
-
